@@ -4,15 +4,11 @@ Creating a mock portfolio site that is responsive across various screens
 
 ## Notes
 
-### Shout-outs
-
 ### Known issues
 
 - The site-responsiveness performs well on Chrome dev tools. However the site does not look well on my personal iPhone 7.
 
 - There is some border oddness in the top right for some browser sizes. The border becomes thinner in that area.
-
-### CSS
 
 ## Future Recommendations
 
